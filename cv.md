@@ -30,3 +30,6 @@ _I'm currently working in a factory as a commercial director. However, I'm dissa
 </html>
 ```
 ***
+### Education
+_Belarusian State University, Management_
+***
