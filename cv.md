@@ -7,3 +7,6 @@
  + GitHub: [Ak1tori](https://github.com/Ak1tori)
  + Linkedin: [Pavel Rymsha](https://www.linkedin.com/in/pavel-rymsha-860212182/)
 ***
+###About Me
+_I'm currently working in a factory as a commercial director. However, I'm dissatisfied with working for the state-owned enterprise and now I am looking for new opporunities for self-realization._
+***
