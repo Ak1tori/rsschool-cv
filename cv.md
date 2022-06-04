@@ -10,3 +10,9 @@
 ###About Me
 _I'm currently working in a factory as a commercial director. However, I'm dissatisfied with working for the state-owned enterprise and now I am looking for new opporunities for self-realization._
 ***
+###Skills
+ + Git, GitHub
+ + HTML5
+ + CSS3
+ + JavaScript (Basic)
+ ***
