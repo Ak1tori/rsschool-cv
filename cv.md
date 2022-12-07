@@ -20,3 +20,18 @@ _I'm currently working in a factory as a commercial director. However, I'm dissa
  + JavaScript (Basic)
 
 ***
+
+### Code Example
+
+``` 
+<!DOCTYPE HTML>
+<html>
+<body>
+  <script>
+    alert( 'Привет, мир!' );
+  </script> 
+</body>
+</html>
+```
+
+***
