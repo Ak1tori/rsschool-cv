@@ -35,3 +35,12 @@ _I'm currently working in a factory as a commercial director. However, I'm dissa
 ```
 
 ***
+
+### Education
+_Belarusian State University, Management_
+
+***
+
+### Languages
++ Belarusian (Native)
++ English (Pre-intermediate/Intermediate)
